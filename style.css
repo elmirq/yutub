@@ -108,6 +108,7 @@ border-radius: 0px 25px 25px 0px;
 width: 90px;
 height: 50px;
 background: rgb(36, 36, 36) ;
+cursor: pointer;
 
 }
 
@@ -266,6 +267,14 @@ margin-top: 5px;
 a{
 color: white;
 text-decoration: none;
+
+}
+
+
+.video:hover{
+scale: 1.03 ;
+transition: 0.3s;
+
 
 }
 
